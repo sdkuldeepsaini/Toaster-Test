@@ -3,6 +3,14 @@ package com.kuldeepr.user.toastlibrary
 import android.content.Context
 import android.widget.Toast
 
+/**
+ * @author Kuldeep
+ * @param c
+ * @param message
+ * Show the toast message
+ */
+
+
 class ToasterMessage {
 
     companion object {
